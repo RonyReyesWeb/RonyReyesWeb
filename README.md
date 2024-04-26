@@ -18,9 +18,9 @@ Technologies I have worked with ↓
 ![CSS3](https://img.shields.io/badge/css3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white)
 ![React](https://img.shields.io/badge/react-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB)
 
-<img src="https://github-readme-streak-stats.herokuapp.com/?user=RonyDanielReyes&theme=gruvbox" />
+<img src="https://github-readme-streak-stats.herokuapp.com/?user=RonyReyesWeb&theme=gruvbox" />
 
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=RonyDanielReyes&layout=compact" />
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=RonyReyesWeb&layout=compact" />
 
 
 ![Node.js](https://img.shields.io/badge/Node.js-%23339933.svg?style=for-the-badge&logo=node.js&logoColor=white)
