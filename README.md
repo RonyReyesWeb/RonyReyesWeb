@@ -2,7 +2,7 @@
 
 - I have recently Graduated from Lighthouse Labs, I am looking for a new role in Software Development where I can continue developping my skills in Javascript, SQL, ReactJs and HTML.
 - Check out a game we built with my team as final project for graduation [Eternal combat](https://eternal-combat.netlify.app)
-- Connect with me on [LinkedIn](https://www.linkedin.com/in/rony-daniel-reyes-lopez-41b1a9235)
+- Connect with me on [LinkedIn](https://www.linkedin.com/in/RonyReyes) 
 - check out my website built with [Worpress](https://ronyreyesweb.wordpress.com)
 - Check out my personal website built with [HTML and CSS](https://ronyreyesweb.netlify.app)
 
